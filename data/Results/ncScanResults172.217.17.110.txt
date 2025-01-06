@@ -1,4 +1,0 @@
-(UNKNOWN) [172.217.17.110] 21 (ftp) : Connection timed out
-(UNKNOWN) [172.217.17.110] 25 (smtp) : Connection timed out
-(UNKNOWN) [172.217.17.110] 80 (http) open
-(UNKNOWN) [172.217.17.110] 443 (https) open

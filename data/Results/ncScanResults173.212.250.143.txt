@@ -1,4 +1,0 @@
-(UNKNOWN) [173.212.250.143] 21 (ftp) open
-(UNKNOWN) [173.212.250.143] 25 (smtp) open
-(UNKNOWN) [173.212.250.143] 80 (http) open
-(UNKNOWN) [173.212.250.143] 443 (https) open
