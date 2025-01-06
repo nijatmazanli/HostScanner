@@ -50,7 +50,7 @@ portNumColor = Fore.LIGHTCYAN_EX
 # Parser
 parser = argparse.ArgumentParser(description="Network Scanner using Netcat",
                                usage="Scanner.py <targets> <ports>\n\nExample:\nScanner.py 192.168.0.1 21,25,80,443,1")
-parser.add_argument("targets",type=str, nargs='+',help="Target IPs of hostnames")
+parser.add_argument("targets",type=str, nargs='+',help="Target IPs of hostnames (or just hostnames or IP range like \24 \16")
 parser.add_argument("ports",type=str, nargs='+',help="Port numbers of hostnames")
 parsedData = parser.parse_args()
 print(parsedData)
