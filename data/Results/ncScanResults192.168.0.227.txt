@@ -1,2 +1,0 @@
-(UNKNOWN) [192.168.0.227] 80 (http) open
-(UNKNOWN) [192.168.0.227] 22 (ssh) open
